@@ -472,9 +472,14 @@ cargo run --bin load_test --release
 
 ---
 
-# Author
+## 👤 Author
 
-Bishal Sarkar
 
-M.Tech Data Science
-IIT Guwahati
+**Bishal Sarkar**  
+Data Science @ IIT Guwahati  
+
+Passionate about Machine Learning, RAG systems, and real-world AI applications.
+
+- 🔗 GitHub: https://github.com/bishal-bit  
+- 💼 LinkedIn: [https://linkedin.com/in/bishal-sarkar](https://www.linkedin.com/in/bishal-sarkar-b98106217/)  
+- 📧 Email: bishal.sarkar2001@gmail.com
